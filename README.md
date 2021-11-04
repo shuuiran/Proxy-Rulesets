@@ -16,13 +16,21 @@
 
 
 ## 配置文件
-### Jsdelivr
+### Jsdelivr(繁中)
 ```
 https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan.ini
 ```
-### Githubusercontent
+### Githubusercontent(繁中)
 ```
 https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan.ini
+```
+### Jsdelivr(簡中)
+```
+https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan_CHS.ini
+```
+### Githubusercontent(簡中)
+```
+https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan_CHS.ini
 ```
 
 
@@ -33,6 +41,6 @@ https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouw
  - 某些線路 shasso.com 無法連接，已默認走 DIRECT  
  - 刪除了一些 IP 檢測站走 DIRECT 的規則  
  - 刪除了 Netease 規則  
- - 中文化了一些規則組名
+ - 中文化了一些規則組名，多個關鍵字詞匹配轉替為繁中，繁中愛好者的福音，另有簡中提供
 
 ![預覽2021.11.04](https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/Image/預覽2021.11.04.png)
