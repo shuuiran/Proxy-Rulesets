@@ -18,11 +18,11 @@
 ## 配置文件
 ### Jsdelivr
 ```
-https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@1.0/config/zhouweiluan.ini
+https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan.ini
 ```
 ### Githubusercontent
 ```
-https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/1.0/config/zhouweiluan.ini
+https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan.ini
 ```
 
 
@@ -35,4 +35,4 @@ https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/1.0/config/zhouweil
  - 刪除了 Netease 規則  
  - 中文化了一些規則組名
 
-![預覽2021.11.04](https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/1.0/Image/預覽2021.11.04.png)
+![預覽2021.11.04](https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/Image/預覽2021.11.04.png)
