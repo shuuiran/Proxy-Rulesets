@@ -77,3 +77,31 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+
+# 補充
+# > Microsoft
+# DOMAIN-SUFFIX,microsoft.com
+# DOMAIN-SUFFIX,msecnd.net
+# DOMAIN-SUFFIX,office.com
+# DOMAIN-SUFFIX,office365.com
+# DOMAIN-SUFFIX,s-microsoft.com
+# DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,visualstudio.com
+# >> Microsoft Software Download
+# DOMAIN,software-download.microsoft.com
+# DOMAIN-KEYWORD,-microsoft-com.akamaized.net
+# >> OneDrive
+# DOMAIN-SUFFIX,1drv.com
+# DOMAIN-SUFFIX,storage.live.com
+# >> Outlook
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com
+# >> Windows Server Update Services
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
