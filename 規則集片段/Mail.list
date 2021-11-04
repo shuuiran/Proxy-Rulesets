@@ -1,0 +1,3 @@
+# 防止部分機場屏蔽郵件服務
+DOMAIN-KEYWORD,imap
+DOMAIN-KEYWORD,smtp
