@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouw
 
 
 ## 主要內容點
- - 添加了 Mail 規則段，可控制 IMAP 和 SMTP 協議是否走 Proxy  
+ - 添加了 Mail 規則段，可控制 iCloud 郵箱是否走 Proxy 
  - 獨立出 Steam、Bilibili、Paypal 規則  
  - 防止 Apple 走 Proxies 時 Apple 地圖會使用非高德數據的問題  
  - 某些線路 shasso.com 無法連接，已默認走 DIRECT  
