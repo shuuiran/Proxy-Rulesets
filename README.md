@@ -33,4 +33,6 @@ https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/1.0/config/zhouweil
  - 某些線路 shasso.com 無法連接，已默認走 DIRECT  
  - 刪除了一些 IP 檢測站走 DIRECT 的規則  
  - 刪除了 Netease 規則  
- - 中文化了一些規則組名  
+ - 中文化了一些規則組名
+
+![預覽2021.11.04](https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/1.0/Image/預覽2021.11.04.png)
