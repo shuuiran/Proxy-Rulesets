@@ -1,0 +1,13 @@
+# 公司網路微信讀圖一直有夠慢，代理掉
+IP-CIDR,112.65.193.155/32,no-resolve
+IP-CIDR,112.65.193.167/32,no-resolve
+IP-CIDR,112.65.193.173/32,no-resolve
+IP-CIDR,116.128.133.102/32,no-resolve
+IP-CIDR,116.128.133.103/32,no-resolve
+IP-CIDR,116.128.163.37/32,no-resolve
+IP-CIDR,220.194.91.159/32,no-resolve
+IP-CIDR,220.194.93.83/32,no-resolve
+IP-CIDR,223.166.152.100/32,no-resolve
+IP-CIDR,223.166.152.101/32,no-resolve
+IP-CIDR,109.244.169.236/32,no-resolve
+DOMAIN-SUFFIX,weixin.qq.com
