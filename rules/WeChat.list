@@ -9,8 +9,10 @@ IP-CIDR,109.244.169.0/17,no-resolve
 IP-CIDR,121.51.160.103/32,no-resolve
 IP-CIDR,101.32.104.0/16,no-resolve
 IP-CIDR,150.109.3.9/32,no-resolve
-
+IP-CIDR,61.241.49.241/32,no-resolve
+IP-CIDR,157.255.245.27/32,no-resolve
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN,wx.qq.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN,wx.qlogo.cn
+DOMAIN-SUFFIX,wechat.com
