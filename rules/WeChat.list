@@ -14,5 +14,7 @@ IP-CIDR,223.166.152.101/32,no-resolve
 IP-CIDR,109.244.169.236/32,no-resolve
 IP-CIDR,109.244.199.111/32,no-resolve
 IP-CIDR,121.51.160.103/32,no-resolve
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,wx.qq.com
+DOMAIN,weixin.qq.com
+DOMAIN,wx.qq.com
+DOMAIN,emoji.qpic.cn
+DOMAIN,wx.qlogo.cn
