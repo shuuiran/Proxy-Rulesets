@@ -9,6 +9,7 @@ IP-CIDR,203.205.254.220/32,no-resolve
 IP-CIDR,203.205.254.110/32,no-resolve
 IP-CIDR,203.205.254.77/32,no-resolve
 IP-CIDR,203.205.234.156/32,no-resolve
+IP-CIDR,203.205.235.205/32,no-resolve
 IP-CIDR,203.205.232.66/32,no-resolve
 IP-CIDR,220.194.91.159/32,no-resolve
 IP-CIDR,220.194.93.83/32,no-resolve
