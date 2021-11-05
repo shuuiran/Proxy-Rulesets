@@ -15,6 +15,7 @@ IP-CIDR,157.255.13.73/32,no-resolve
 IP-CIDR,157.148.54.24/32,no-resolve
 IP-CIDR,129.226.1.35/32,no-resolve
 IP-CIDR,45.255.124.228/32,no-resolve
+IP-CIDR,49.51.20.85/32,no-resolve
 
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN,wx.qq.com
