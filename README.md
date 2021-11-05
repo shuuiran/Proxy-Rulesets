@@ -1,6 +1,5 @@
 # Proxy-Rulesets
 **自用代理規則集 2021.11.04**  
-基於 [SleepyHeeead](https://github.com/SleepyHeeead/subconverter-config) 規則集修改
 
 
 
@@ -18,7 +17,7 @@
 ## 遠程配置文件
 ### Jsdelivr(繁中)
 ```
-https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan.ini
+https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan_Jsdelivr.ini
 ```
 ### Githubusercontent(繁中)
 ```
@@ -26,7 +25,7 @@ https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouw
 ```
 ### Jsdelivr(簡中)
 ```
-https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan_CHS.ini
+https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan_CHS_Jsdelivr.ini
 ```
 ### Githubusercontent(簡中)
 ```
