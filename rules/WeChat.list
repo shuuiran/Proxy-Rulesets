@@ -6,7 +6,9 @@ IP-CIDR,116.128.133.102/32,no-resolve
 IP-CIDR,116.128.133.103/32,no-resolve
 IP-CIDR,116.128.163.37/32,no-resolve
 IP-CIDR,203.205.254.220/32,no-resolve
+IP-CIDR,203.205.254.110/32,no-resolve
 IP-CIDR,203.205.234.156/32,no-resolve
+IP-CIDR,203.205.232.66/32,no-resolve
 IP-CIDR,220.194.91.159/32,no-resolve
 IP-CIDR,220.194.93.83/32,no-resolve
 IP-CIDR,223.166.152.100/32,no-resolve
@@ -14,7 +16,8 @@ IP-CIDR,223.166.152.101/32,no-resolve
 IP-CIDR,109.244.169.236/32,no-resolve
 IP-CIDR,109.244.199.111/32,no-resolve
 IP-CIDR,121.51.160.103/32,no-resolve
+
 DOMAIN,weixin.qq.com
 DOMAIN,wx.qq.com
-DOMAIN,emoji.qpic.cn
+DOMAIN-SUFFIX,qpic.cn
 DOMAIN,wx.qlogo.cn
