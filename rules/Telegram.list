@@ -9,6 +9,7 @@ IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,214.58.150.23/32,no-resolve
+
 IP-CIDR,169.130.148.23/32,no-resolve
 IP-CIDR,160.75.121.199/32,no-resolve
 IP-CIDR,16.42.65.208/32,no-resolve
