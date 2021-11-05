@@ -19,6 +19,7 @@ IP-CIDR,208.99.190.186/32,no-resolve
 IP-CIDR,6.16.0.192/32,no-resolve
 IP-CIDR,2.16.0.192/32,no-resolve
 IP-CIDR,64.182.122.3/32,no-resolve
+IP-CIDR,32.145.82.199/32,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
