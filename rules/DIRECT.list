@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,ls.apple.com
 # 當 Apple 走 Proxy 時，iCloud CN 域名走 Proxy 會無法連接
 DOMAIN-SUFFIX,icloud.com.cn
 
+# 遊戲點卡加值網站 seagm.com 會屏蔽某些商用IP
+DOMAIN-SUFFIX,seagm.com
+
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,mb3admin.com
