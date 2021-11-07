@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,shasso.com
 # 該地址會判斷 Apple Maps 使用哪個供應商的數據，中國大陸需要DIRECT
 DOMAIN-SUFFIX,ls.apple.com
 
+# 當 Apple 走 Proxy 時，iCloud CN 域名走 Proxy 會無法連接
+DOMAIN-SUFFIX,icloud.com.cn
+
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,mb3admin.com
