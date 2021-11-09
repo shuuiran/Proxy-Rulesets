@@ -14,7 +14,7 @@
 
 
 
-## 遠程配置文件
+## 遠程配置文檔
 ### Jsdelivr(繁中)
 ```
 https://cdn.jsdelivr.net/gh/zhouweiluan/Proxy-Rulesets@master/config/zhouweiluan_Jsdelivr.ini
