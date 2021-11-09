@@ -6,20 +6,20 @@
  * [Script]
  * nf_check = type=generic, script-path=https://gist.githubusercontent.com/Hyseen/b06e911a41036ebc36acf04ddebe7b9a/raw/nf_check.js?version=1633074636264, argument=title=Netflix 解鎖檢測
  *
- * 支持使用腳本使用 argument 參數自定義配置，如：argument=key1=URLEncode(value1)&key2=URLEncode(value2)，具體參數如下所示，
+ * 支援使用腳本使用 argument 參數自定義配置，如：argument=key1=URLEncode(value1)&key2=URLEncode(value2)，具體參數如下所示，
  * title: 面板標題
- * fullContent: 完整解鎖時展示的的文本內容，支持以下四個個區域占位符 #REGION_FLAG#、#REGION_CODE#、#REGION_NAME#、#REGION_NAME_EN#，用來展示地區國旗 emoji 、地區編碼、地區中文名稱、地區英文名稱
+ * fullContent: 完整解鎖時展示的的文本內容，支援以下四個個區域占位符 #REGION_FLAG#、#REGION_CODE#、#REGION_NAME#、#REGION_NAME_EN#，用來展示地區國旗 emoji 、地區編碼、地區中文名稱、地區英文名稱
  * fullIcon: 完整解鎖時展示的圖標，內容為任意有效的 SF Symbol Name
  * fullIconColor：完整解鎖時展示的圖標顏色，內容為顏色的 HEX 編碼
  * fullStyle: 完整解鎖時展示的圖標樣式，參數可選值有 good, info, alert, error
- * onlyOriginalContent：僅解鎖自制劇時展示的文本內容，支持以下四個個區域占位符 #REGION_FLAG#、#REGION_CODE#、#REGION_NAME#、#REGION_NAME_EN#，用來展示地區國旗 emoji 、地區編碼、地區中文名稱、地區英文名稱
+ * onlyOriginalContent：僅解鎖自制劇時展示的文本內容，支援以下四個個區域占位符 #REGION_FLAG#、#REGION_CODE#、#REGION_NAME#、#REGION_NAME_EN#，用來展示地區國旗 emoji 、地區編碼、地區中文名稱、地區英文名稱
  * onlyOriginalIcon: 僅解鎖自制劇時展示的圖標
  * onlyOriginalIconColor: 僅解鎖自制劇時展示的圖標顏色
  * onlyOriginalStyle: 僅解鎖自制劇時展示的圖標樣式
- * notAvailableContent: 不支持解鎖時展示的文本內容
- * notAvailableIcon: 不支持解鎖時展示的圖標
- * notAvailableIconColor: 不支持解鎖時展示的圖標顏色
- * notAvailableStyle: 不支持解鎖時展示的圖標樣式
+ * notAvailableContent: 不支援解鎖時展示的文本內容
+ * notAvailableIcon: 不支援解鎖時展示的圖標
+ * notAvailableIconColor: 不支援解鎖時展示的圖標顏色
+ * notAvailableStyle: 不支援解鎖時展示的圖標樣式
  * errorContent: 檢測異常時展示的文本內容
  * errorIcon: 檢測異常時展示的圖標
  * errorIconColor: 檢測異常時展示的圖標顏色
@@ -31,15 +31,15 @@ const FILM_ID = 81215567
 const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
   title: 'Netflix 解鎖檢測',
-  fullContent: '完整支持Netflix，地區：#REGION_FLAG# #REGION_NAME#',
+  fullContent: '完整支援Netflix劇集，地區：#REGION_FLAG# #REGION_NAME#',
   fullIcon: '',
   fullIconColor: '',
   fullStyle: 'good',
-  onlyOriginalContent: '僅支持自制劇，地區：#REGION_FLAG# #REGION_NAME#',
+  onlyOriginalContent: '僅支援自制劇集，地區：#REGION_FLAG# #REGION_NAME#',
   onlyOriginalIcon: '',
   onlyOriginalIconColor: '',
   onlyOriginalStyle: 'info',
-  notAvailableContent: '不支持 Netflix',
+  notAvailableContent: '不支援 Netflix',
   notAvailableIcon: '',
   notAvailableIconColor: '',
   notAvailableStyle: 'alert',
