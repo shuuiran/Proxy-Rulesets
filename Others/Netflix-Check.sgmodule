@@ -6,4 +6,4 @@
 nf_check = script-name=nf_check, title="Netflix 解鎖檢測", content="請重新整理", update-interval=1
 
 [Script]
-nf_check = type=generic, script-path=https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/Others/Netflix_check?version=1633090677159, argument=title=Netflix 解鎖檢測
+nf_check = type=generic, script-path=https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/Others/Netflix_check.js?version=1633090677159, argument=title=Netflix 解鎖檢測
