@@ -569,3 +569,4 @@ DOMAIN,international-gfe.download.nvidia.com
 DOMAIN,store-images.s-microsoft.com
 # > Linkedin
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
