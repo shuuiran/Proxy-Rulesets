@@ -567,3 +567,5 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,international-gfe.download.nvidia.com
 DOMAIN,store-images.s-microsoft.com
+# > Linkedin
+DOMAIN-SUFFIX,linkedin.com
