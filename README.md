@@ -17,24 +17,24 @@
 ## 遠程配置文檔
 ### Githubusercontent(繁中)
 ```
-https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan.ini
+https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran.ini
 ```
 ### Githubusercontent(簡中)
 ```
-https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan_CHS.ini
+https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_CHS.ini
 ```
 ### Githubusercontent(日本語)
 ```
-https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/config/zhouweiluan_JP.ini
+https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_JP.ini
 ```
 
 
-## 主要內容點
- - 添加了 Mail 規則段，可控制 iCloud 郵箱是否走 Proxy 
- - 獨立出 Steam、Bilibili、Paypal 規則  
+## 概覽
+ - 添加了 Mail 規則段，可控制郵箱的 IMAP 或 SMTP 協議是否走 Proxy 
+ - 獨立出 Steam、Bilibili、Paypal、Telegram 等規則  
  - 防止 Apple 走 Proxies 時 Apple 地圖會使用非高德數據的問題  
  - 刪除了一些 IP 檢測站走 DIRECT 的規則  
  - 刪除了 Netease 規則  
  - 多語言
 
-![預覽2021.11.04](https://raw.githubusercontent.com/zhouweiluan/Proxy-Rulesets/master/Image/預覽2021.11.04.png)
+![預覽2021.11.04](https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/Image/プレビュー2022.06.21.png)
