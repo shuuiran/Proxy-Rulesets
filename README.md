@@ -19,10 +19,6 @@
 ```
 https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran.ini
 ```
-### Githubusercontent(簡中)
-```
-https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_CHS.ini
-```
 ### Githubusercontent(日本語)
 ```
 https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_JP.ini

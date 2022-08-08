@@ -1,7 +1,7 @@
 # 需要DIRECT的服務
 
 # 某些網路會屏蔽 shasso.com 導致 offgamers.com 不可用
-DOMAIN-SUFFIX,shasso.com
+# DOMAIN-SUFFIX,shasso.com
 
 # 該地址會判斷 Apple Maps 使用哪個供應商的數據，中國大陸需要DIRECT
 DOMAIN-SUFFIX,ls.apple.com
