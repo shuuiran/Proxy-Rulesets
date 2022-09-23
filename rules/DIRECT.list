@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,ls.apple.com
 # 當 Apple 走 Proxy 時，iCloud CN 域名走 Proxy 會無法連接
 DOMAIN-SUFFIX,icloud.com.cn
 
+# 国内腾讯手游 GCloud
+DOMAIN-SUFFIX,cn.gcloudcs.com
+DOMAIN,cn.voice.gcloudcs.com
 
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,vultr.com
