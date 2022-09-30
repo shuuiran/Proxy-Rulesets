@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,cn.gcloudcs.com
 DOMAIN,cn.voice.gcloudcs.com
 
+# Nimo Test
+DOMAIN,www-test.nimo.tv
+
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,mb3admin.com
