@@ -15,15 +15,14 @@
 
 
 ## 遠程配置文檔
-### Githubusercontent(繁中)
-```
-https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran.ini
-```
-### Githubusercontent(日本語)
+### 通用
 ```
 https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_JP.ini
 ```
-
+### Surge SSID Group
+```
+https://raw.githubusercontent.com/shuuiran/Proxy-Rulesets/master/config/shuuiran_JP_Surge_SSIDGroup.ini
+```
 
 ## 概覽
  - 添加了 Mail 規則段，可控制郵箱的 IMAP 或 SMTP 協議是否走 Proxy 
