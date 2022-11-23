@@ -16,14 +16,6 @@ DOMAIN,cn.voice.gcloudcs.com
 # Nimo Test
 DOMAIN,www-test.nimo.tv
 
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,mb3admin.com
-DOMAIN-SUFFIX,tempestapp.io
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidu-int.com
-DOMAIN-SUFFIX,erebor.douban.com
-
 # Google
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
