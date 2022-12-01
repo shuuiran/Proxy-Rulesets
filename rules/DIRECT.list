@@ -16,6 +16,9 @@ DOMAIN,cn.voice.gcloudcs.com
 # Nimo Test
 DOMAIN,www-test.nimo.tv
 
+# Huya
+DOMAIN-SUFFIX,huya.com
+
 # Google
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
