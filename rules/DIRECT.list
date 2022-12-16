@@ -36,3 +36,6 @@ DOMAIN,captive.apple.com
 DOMAIN,time-ios.apple.com
 DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
+
+# QQ
+DOMAIN-SUFFIX,qq.com
