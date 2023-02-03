@@ -42,3 +42,6 @@ DOMAIN-SUFFIX,qq.com
 
 # JD
 DOMAIN-SUFFIX,jd.com
+
+# Apple CN
+DOMAIN-SUFFIX,apple.com.cn
