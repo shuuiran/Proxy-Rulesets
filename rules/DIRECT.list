@@ -6,7 +6,7 @@
 # 該地址會判斷 Apple Maps 使用哪個供應商的數據，中國大陸需要DIRECT
 DOMAIN-SUFFIX,ls.apple.com
 
-# 當 Apple 走 Proxy 時，iCloud CN 域名走 Proxy 會無法連接
+# iCloud CN 域名走 Proxy 會無法連接
 DOMAIN-SUFFIX,icloud.com.cn
 
 # 国内腾讯手游 GCloud
@@ -45,3 +45,7 @@ DOMAIN-SUFFIX,jd.com
 
 # Apple CN
 DOMAIN-SUFFIX,apple.com.cn
+
+# App Store
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
