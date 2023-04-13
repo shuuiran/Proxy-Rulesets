@@ -45,3 +45,6 @@ DOMAIN-SUFFIX,jd.com
 
 # Apple CN
 DOMAIN-SUFFIX,apple.com.cn
+
+# IHG
+DOMAIN-SUFFIX,ihg.com
