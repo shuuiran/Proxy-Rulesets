@@ -1,4 +1,11 @@
-# abema tv
+# NAME: AbemaTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-07 14:50:25
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 22
+# USER-AGENT: 1
+# TOTAL: 24
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv

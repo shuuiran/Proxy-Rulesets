@@ -1,12 +1,15 @@
 # NAME: Steam
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-22 23:00:28
-# DOMAIN: 1
+# UPDATED: 2023-04-07 14:47:34
+# DOMAIN: 4
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 36
-# TOTAL: 40
+# DOMAIN-SUFFIX: 45
+# TOTAL: 52
+DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,steammobile.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
@@ -14,6 +17,7 @@ DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
@@ -23,15 +27,23 @@ DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,steam.cdn.on.net
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+DOMAIN-SUFFIX,steam.cdn.webra.ru
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steambroadcast.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
@@ -50,7 +62,7 @@ DOMAIN-KEYWORD,steamuserimages
 # NAME: Epic
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:09:26
+# UPDATED: 2023-04-07 14:47:34
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 15
 # TOTAL: 16
@@ -74,12 +86,16 @@ DOMAIN-KEYWORD,epicgames
 # NAME: Origin
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:11:04
+# UPDATED: 2023-04-07 14:51:25
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 1
-# TOTAL: 5
+# DOMAIN-SUFFIX: 5
+# TOTAL: 9
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
