@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,apple.com.cn
 
 # IHG
 DOMAIN-SUFFIX,ihg.com
+
+# baidu
+DOMAIN-SUFFIX,baidu.com
