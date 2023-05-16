@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,baidu.com
 
 # 小红书
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# GOV.cn
+DOMAIN-SUFFIX,gov.cn
