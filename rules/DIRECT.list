@@ -59,4 +59,4 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,gov.cn
 
 # SMTP
-DOMAIN-KEYWORD,smtp
+# DOMAIN-KEYWORD,smtp
