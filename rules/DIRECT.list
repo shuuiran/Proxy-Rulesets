@@ -1,5 +1,7 @@
 # 需要DIRECT的服務
 
+
+
 # 某些網路會屏蔽 shasso.com 導致 offgamers.com 不可用
 # DOMAIN-SUFFIX,shasso.com
 
@@ -63,3 +65,5 @@ DOMAIN-SUFFIX,gov.cn
 
 # Netease
 DOMAIN-SUFFIX,netease.com
+
+DOMAIN-SUFFIX,c4d.cn
